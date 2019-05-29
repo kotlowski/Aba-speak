@@ -1,9 +1,9 @@
 # Aba-speak
 
-Khan Academy Excersize I though was fun.
+Khan Academy Excersize I thought was fun.
 
 
-Aba Speak is a game imvented by school children to disquise what they are speaking.
+Aba Speak is a game invented by school children to disquise what they are speaking.
 
 When speaking they transform each word following this algorithm.
 
